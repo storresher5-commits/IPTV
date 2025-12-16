@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>IPTV - Acceso Temporal</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            min-height: 100vh;
+        }
+        .container {
+            background: rgba(255,255,255,0.1);
+            padding: 30px;
+            border-radius: 15px;
+            backdrop-filter: blur(10px);
+            max-width: 500px;
+            margin: 0 auto;
+        }
+        button {
+            background: white;
+            color: #667eea;
+            border: none;
+            padding: 15px 30px;
+            font-size: 18px;
+            border-radius: 50px;
+            cursor: pointer;
+            margin: 20px 0;
+            transition: transform 0.3s;
+        }
+        button:hover {
+            transform: scale(1.05);
+        }
+        .expired {
+            background: #ff4757;
+            padding: 20px;
+            border-radius: 10px;
+            margin: 20px 0;
+        }
+        .valid {
+            background: #2ed573;
+            padding: 20px;
+            border-radius: 10px;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>📺 ACCESO IPTV</h1>
+        <p>Suscripción válida por 2 meses</p>
+        
+        <div id="status"></div>
+        
+        <div id="enlace-container" style="display:none;">
+            <h3>Tu enlace M3U:</h3>
+            <input type="text" id="enlace-m3u" readonly 
+                   style="width:100%; padding:10px; margin:10px 0; border-radius:5px; border:none;">
+            <button onclick="copiarEnlace()">📋 Copiar Enlace</button>
+            <p style="font-size:12px; margin-top:20px;">
+                Usa este enlace en cualquier app IPTV (IPTV Smarters, TiviMate, etc.)
+            </p>
+        </div>
+        
+        <div id="expirado-container" style="display:none;">
+            <h2>⚠️ SUSCRIPCIÓN EXPIRADA</h2>
+            <p>Contacta con el administrador para renovar</p>
+        </div>
+    </div>
+
+    <script>
+        // CONFIGURACIÓN - EDITA ESTO
+        const fechaExpiracion = new Date('2024-12-17'); // Cambia esta fecha
+        const enlaceM3U = 'lista.m3u'; // Nombre de tu archivo M3U
+        const diasRestantesSpan = document.getElementById('dias-restantes');
+        
+        function verificarExpiracion() {
+            const hoy = new Date();
+            const statusDiv = document.getElementById('status');
+            const enlaceContainer = document.getElementById('enlace-container');
+            const expiradoContainer = document.getElementById('expirado-container');
+            
+            // Calcular días restantes
+            const diffTime = fechaExpiracion - hoy;
+            const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
+            
+            if (hoy > fechaExpiracion) {
+                // EXPIRADO
+                statusDiv.innerHTML = '<div class="expired"><h2>✖️ SUSCRIPCIÓN EXPIRADA</h2></div>';
+                expiradoContainer.style.display = 'block';
+                enlaceContainer.style.display = 'none';
+            } else {
+                // VÁLIDO
+                statusDiv.innerHTML = `<div class="valid">
+                    <h2>✅ SUSCRIPCIÓN ACTIVA</h2>
+                    <p>Días restantes: <strong>${diffDays}</strong> días</p>
+                    <p>Expira: ${fechaExpiracion.toLocaleDateString()}</p>
+                </div>`;
+                
+                // Mostrar enlace M3U
+                document.getElementById('enlace-m3u').value = 
+                    window.location.href.replace('index.html', enlaceM3U);
+                
+                enlaceContainer.style.display = 'block';
+                expiradoContainer.style.display = 'none';
+            }
+        }
+        
+        function copiarEnlace() {
+            const input = document.getElementById('enlace-m3u');
+            input.select();
+            document.execCommand('copy');
+            alert('✅ Enlace copiado al portapapeles');
+        }
+        
+        // Ejecutar al cargar
+        window.onload = verificarExpiracion;
+    </script>
+</body>
+</html>
