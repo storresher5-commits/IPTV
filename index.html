@@ -1,132 +1,108 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>IPTV - Acceso</title>
+    <title>Enlace IPTV</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
-        body { 
-            font-family: Arial, sans-serif; 
-            padding: 40px; 
+        body {
+            font-family: Arial, sans-serif;
             text-align: center;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: white;
-            min-height: 100vh;
+            padding: 40px 20px;
+            background: #f0f0f0;
+            color: #333;
         }
-        .container {
-            background: rgba(255,255,255,0.1);
-            padding: 30px;
-            border-radius: 15px;
+        .contenedor {
+            background: white;
             max-width: 600px;
             margin: 0 auto;
-            backdrop-filter: blur(10px);
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
         }
-        .valido { 
-            background: #2ed573; 
-            color: white; 
-            padding: 20px;
-            border-radius: 10px;
-            margin: 20px 0;
+        h1 {
+            color: #2c3e50;
+            margin-bottom: 10px;
         }
-        .expirado { 
-            background: #ff4757; 
-            color: white; 
-            padding: 20px;
+        .url-box {
+            background: #f8f9fa;
+            border: 2px dashed #3498db;
             border-radius: 10px;
-            margin: 20px 0;
+            padding: 20px;
+            margin: 25px 0;
+            word-break: break-all;
+            font-size: 16px;
         }
         input {
-            width: 80%;
-            padding: 12px;
-            margin: 10px 0;
-            border: none;
+            width: 100%;
+            padding: 15px;
+            border: 1px solid #ddd;
             border-radius: 8px;
             font-size: 16px;
+            box-sizing: border-box;
+            text-align: center;
+            background: #fff;
+            margin-bottom: 15px;
         }
         button {
-            background: white;
-            color: #667eea;
+            background: #2ecc71;
+            color: white;
             border: none;
-            padding: 12px 25px;
-            font-size: 16px;
+            padding: 15px 30px;
+            font-size: 18px;
             border-radius: 8px;
             cursor: pointer;
-            margin: 10px;
             font-weight: bold;
+            margin: 10px;
+            transition: background 0.3s;
+        }
+        button:hover {
+            background: #27ae60;
         }
         .info {
-            background: #3498db;
+            background: #e8f4fc;
             padding: 15px;
-            border-radius: 10px;
-            margin: 15px 0;
-        }
-        .enlace-box {
-            background: rgba(255,255,255,0.2);
-            padding: 15px;
-            border-radius: 10px;
-            margin: 20px 0;
-            word-break: break-all;
+            border-radius: 8px;
+            margin-top: 25px;
+            text-align: left;
+            font-size: 14px;
         }
     </style>
 </head>
 <body>
-    <div class="container">
-        <h1>📺 ACCESO IPTV</h1>
-        <p>Suscripción válida por 1 año</p>
+    <div class="contenedor">
+        <h1>🔗 Enlace de Lista M3U</h1>
+        <p>Copie el siguiente enlace para usar en su aplicación IPTV:</p>
         
-        <div id="estado"></div>
+        <div class="url-box">
+            <input type="text" id="enlaceM3U" readonly value="https://storresher5-commits.github.io/IPTV/lista.m3u">
+            <button onclick="copiarEnlace()">📋 COPIAR ENLACE</button>
+        </div>
         
-        <div id="enlace" style="display:none; margin-top:20px;">
-            <h3>✅ Tu enlace M3U está LISTO:</h3>
-            <div class="enlace-box">
-                <input type="text" id="url" readonly>
-            </div>
-            <button onclick="copiar()">📋 Copiar Enlace</button>
-            <div class="info">
-                <p>⚡ <strong>Instrucciones:</strong></p>
-                <p>1. Copia el enlace de arriba</p>
-                <p>2. Pégalo en tu app IPTV favorita</p>
-                <p>3. Apps recomendadas: IPTV Smarters, TiviMate, OTT Navigator</p>
-            </div>
+        <div class="info">
+            <p><strong>Instrucciones:</strong></p>
+            <p>1. Haga clic en <strong>"COPIAR ENLACE"</strong>.</p>
+            <p>2. Abra su aplicación IPTV (TiviMate, IPTV Smarters, OTT Navigator, VLC, etc.).</p>
+            <p>3. Busque la opción para <strong>"Añadir lista por URL"</strong> o similar.</p>
+            <p>4. Pegue el enlace copiado y guarde.</p>
+            <p>✅ Los canales se cargarán automáticamente.</p>
         </div>
     </div>
 
     <script>
-        // ⚠️ FECHA DE EXPIRACIÓN: 17 Diciembre 2025 (1 año desde hoy)
-        const expira = new Date('2025-12-17');
-        const hoy = new Date();
-        const diasRestantes = Math.ceil((expira - hoy) / (1000 * 60 * 60 * 24));
-        
-        const estadoDiv = document.getElementById('estado');
-        const enlaceDiv = document.getElementById('enlace');
-        
-        if (hoy > expira) {
-            // SUSCRIPCIÓN EXPIRADA
-            estadoDiv.innerHTML = 
-                '<div class="expirado"><h2>✖️ SUSCRIPCIÓN EXPIRADA</h2>' +
-                '<p>Contacta con el administrador para renovar</p></div>';
-        } else {
-            // SUSCRIPCIÓN ACTIVA
-            estadoDiv.innerHTML = 
-                '<div class="valido"><h2>✅ SUSCRIPCIÓN ACTIVA</h2>' +
-                `<p><strong>${diasRestantes}</strong> días restantes</p>` +
-                `<p>Expira: ${expira.toLocaleDateString('es-ES', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })}</p></div>`;
-            
-            // Mostrar enlace M3U
-            enlaceDiv.style.display = 'block';
-            document.getElementById('url').value = 
-                'https://storresher5-commits.github.io/IPTV/';
-        }
-        
-        function copiar() {
-            const input = document.getElementById('url');
+        // Función para copiar el enlace al portapapeles
+        function copiarEnlace() {
+            const input = document.getElementById('enlaceM3U');
             input.select();
             document.execCommand('copy');
-            alert('✅ Enlace copiado al portapapeles');
+            alert('✅ Enlace copiado al portapapeles. Péguelo en su app IPTV.');
         }
         
-        // Mostrar fecha actual en consola para debug
-        console.log('Fecha actual:', hoy.toLocaleDateString());
-        console.log('Fecha expiración:', expira.toLocaleDateString());
-        console.log('Días restantes:', diasRestantes);
+        // Cargar automáticamente el enlace correcto
+        window.onload = function() {
+            const urlBase = window.location.href.split('/').slice(0, -1).join('/') + '/';
+            const enlaceCompleto = urlBase + 'lista.m3u';
+            document.getElementById('enlaceM3U').value = enlaceCompleto;
+        }
     </script>
 </body>
 </html>
