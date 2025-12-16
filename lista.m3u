@@ -1,87 +1,98 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiafanart_sincolor1.xml.gz, https://raw.githubusercontent.com/Icastresana/lista1/main/epg.xml, https://xmltv.info/de/epg.xml, https://www.open-epg.com/files/unitedstatespremium1.xml, https://iptvx.one/EPG"
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD", DAZN LIGA FHD (SAT)
-acestream://e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD", DAZN LIGA FHD
-acestream://74defb8f4ed3a917fd07c21b34f43c17107ec618
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD", DAZN LIGA 720p
-acestream://4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN F1 HD", DAZN F1 FHD
-acestream://b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD", DAZN 1 FHD (SAT)
-acestream://bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD", DAZN 1 FHD
-acestream://eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-udh-1840.png" tvg-id="M+ LaLiga TV UHD", M+ Liga UHD
-acestream://cc9b7f5fe416069a2110da0909b0f915043c468b
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD", M+ Liga FHD (SAT)
-acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD", M+ Liga FHD
-acestream://c9321006921967d6258df6945f1d598a5c0cbf1e
-#EXTINF:-1 t#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD", M+ Liga 1080p
-acestream://4b528d10eaad747ddf52251206177573ee3e9f74
-#EXTINF:-1 t#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD", M+ Liga 720p
-acestream://14b6cd8769cd485f2cffdca64be9698d9bfeac58
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD", M+ LIGA DE CAMPEONES FHD
-acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD", M+ LIGA DE CAMPEONES FHD
-acestream://2b51710cee513e8939785fa3e7980f32d4e0415f
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" tvg-id="M+ Liga de Campeones 2 HD", M+ LIGA DE CAMPEONES HD
-acestream://9db029dff6a9c637d1f670e78dbc1a479b9b406e
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" tvg-id="M+ Liga de Campeones 2 HD", M+ LIGA DE CAMPEONES 720
-acestream://b028202ff335911db3118bceac027df3e8ef6c32
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" tvg-id="M+ Liga de Campeones 2 HD", M+ LIGA DE CAMPEONES 2 FHD
-acestream://74ab4e4ec7e2da001f473ca40893b7307b8029c5
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" tvg-id="M+ Liga de Campeones 2 HD", M+ LIGA DE CAMPEONES 2 720
-acestream://38f7b2044e549df2039ff26cefa6f9a60c854d5e
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" tvg-id="M+ Liga de Campeones 3 HD", M+ LIGA DE CAMPEONES 3 FHD
-acestream://4416843c96b7f7a1bc55c476091a60fff0922bc7
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" tvg-id="M+ Liga de Campeones 4", M+ LIGA DE CAMPEONES 4 FHDacestream://d0fb8510b35dcdff7b3208c899a067608ee9b1a4acestream://01152274037c5f7155489e0a977cbde71a61290c
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%205.png" tvg-id="M+ Liga de Campeones 5", M+ LIGA DE CAMPEONES 5 FHD
-acestream://6d27a521cf8542b3e06d2415cbeeb10310bd00b0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD", M+ DEPORTES FHD
-acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD", M+ DEPORTES 2 FHD
-acestream://f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD", M+ DEPORTES 2 HD
-acestream://bfa01c11c5c6b7a616a516de4f2c769a89d26b25
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jDg5qWD/deportes3.png" tvg-id="M+ Deportes 3", M+ DEPORTES 3 FHD
-acestream://799c6b5ee1cf41af077d14e3f9c45a32697eb903
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WDN9NN9/deportes4.png" tvg-id="M+ Deportes 4", M+ DEPORTES 4 FHD
-acestream://b40e1de2dcbd7c665f54877b14c830ed67b32a96
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pvZ2tSB/deportes5.png" tvg-id="M+ Deportes 5", M+ DEPORTES 5 HD
-acestream://7b361369a40046ad3011086f9d4ae2982fb4d5aa
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD", #VAMOS FHD (SAT)
-acestream://7b361369a40046ad3011086f9d4ae2982fb4d5aa
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD", M+ PLUS FHD
-acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD", M+ PLUS HD
-acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Vp04N3pT/golf.png" tvg-id="M+ Golf HD", MOVISTAR GOLF FHD
-acestream://e2a05b5dad62f8dd20822c08fc9fd5dc2245c512
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BHXHhN2b/M-Golf-2.png" tvg-id="M+ Golf 2 HD", MOVISTAR GOLF 2 FHD
-acestream://11078aceacd1be758f4c953a437fc1ecb8eca730
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m9zPrNc/Euro4k.png" tvg-id="Eurosport 4K", EUROSPORT UHD
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD", EUROSPORT 1 FHD
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2", EUROSPORT 2 FHD
-acestream://b1797c899abe3cbf7a075d2814bfbb0375832c7d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CsMjBRkR/ufc.png" tvg-id="", UFC Fight Pass
-acestream://e3ad553098e0c1e70cba1ea2a906dc27aa3452a2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JWPVhS0d/nba.png" tvg-id="", NBA TV
-acestream://7146e467aee3cb0bcdc286b39a3022c992428f01
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JWPVhS0d/nba.png" tvg-id="", NBA NETWORK
-acestream://8aa5c652b7e8e94c45e37eb5b60aef9dcd37839e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD", LA 1 FHD
-acestream://7225e4b281975f1a36d61dfd9724b669d7747b70
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qFgSG92W/antena3.png" tvg-id="Antena 3 HD", ANTENA 3 FHD
-acestream://390b5b0fc49a811c5c5ebd6d195b08a48b1e8496
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C3yh66tp/cuatro.png" tvg-id="Cuatro HD", CUATRO FHD
-acestream://da60cf19fab0b9e23aab83bb37d61e8b8c3b7655
-#EXTINF:-1 tvg-logo="https://i.ibb.co/81wJ3GH/telecinco.png" tvg-id="Telecinco HD", TELECINCO FHD
-acestream://154c6f876ddf1d9c87880eae0d0442335ec156bf
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SX1jhBzy/lasexta.png" tvg-id="La Sexta HD", LA SEXTA FHD
-acestream://a4378aa93f9f436cfd1654160991f554e5395d88
-#EXTINF:-1 tvg-logo="https://www.realmurcia.es/wp-content/uploads/2024/08/Real-Murcia.png" tvg-id="",Real Murcia
-acestream://c1ee6e1e0ef5928d8261f855c417de21794f437d
+#EXTM3U
+#EXTINF:-1,DARK
+http://511107916998541471.ofsd5513.xyz:80/live/vi627895/FunGcwqBGM58/541471.ts
+#EXTINF:-1,XTRM
+http://745089363339321476.ofsd5513.xyz:80/play/E6S2DGWWF3/T@JuTdggv7q/321476.ts
+#EXTINF:-1,Calle 13
+http://8809848327321138.ofsd5513.xyz:80/play/ve08284/902336437423/321138.ts
+#EXTINF:-1,SYFY
+http://541160269466321422.ofsd5513.xyz:80/live/MARIAJESUS/1234567890/321422.ts
+#EXTINF:-1,CANAL HISTORIA
+http://606117765114336326.ofsd5513.xyz:80/play/BX7NPYM8VQ/G8pbKdhsj4hP/336326.ts
+#EXTINF:-1,NICKELODEON
+http://229110500660339779.ofsd5513.xyz:80/live/Diego825LA/DiegoM122/339779.ts
+#EXTINF:-1,AXN MOVIES
+http://43160677691538658.ofsd5513.xyz:80/live/Sergtonab12/XSDRvt12/538658.ts
+#EXTINF:-1,Movistar CINE HD
+http://139384651764559513.ofd0208.xyz:80/play/fe1108712/7YuHD8QuuY3/559513.ts
+#EXTINF:-1,Movistar CINE SD
+http://414421713416561133.ofd0208.xyz:80/play/ja1227793/@RGftX4JEw/561133.ts
+#EXTINF:-1,Movistar DOCUMENTALES HD
+http://329056059814552955.ofd0126.xyz:80/play/fe1104063/TYnTu39mFdNS/552955.ts
+#EXTINF:-1,Movistar DOCUMENTALES SD
+http://414421713416321348.ofd0208.xyz:80/play/ja1227793/@RGftX4JEw/321348.ts
+#EXTINF:-1,Movistar ACCIÓN HD
+http://sleekbeen.com:80/H76M73U69K23A7/DFXMGLAGTL4TACWH/965
+#EXTINF:-1,Movistar ACCIÓN SD
+http://414421713416321306.ofd0208.xyz:80/play/ja1227793/@RGftX4JEw/321306.ts
+#EXTINF:-1,Movistar RESISTENCIA 24H HD
+http://sleekbeen.com:80/H76M73U69K23A7/DFXMGLAGTL4TACWH/961
+#EXTINF:-1,Movistar RESISTENCIA 24H SD
+http://139384651764321287.ofd0208.xyz:80/play/fe1108712/7YuHD8QuuY3/321287.ts
+#EXTINF:-1,Movistar SERIES HD
+http://sleekbeen.com:80/H76M73U69K23A7/DFXMGLAGTL4TACWH/903
+#EXTINF:-1,Movistar SERIES SD
+http://139384651764321344.ofd0208.xyz:80/play/fe1108712/7YuHD8QuuY3/321344.ts
+#EXTINF:-1,Movistar+ HD
+http://139384651764646233.ofd0208.xyz:80/play/fe1108712/7YuHD8QuuY3/646233.ts
+#EXTINF:-1,Movistar+ SD
+http://414421713416646233.ofd0208.xyz:80/play/ja1227793/@RGftX4JEw/646233.ts
+#EXTINF:-1,Movistar COMEDIA HD
+http://sleekbeen.com:80/H76M73U69K23A7/DFXMGLAGTL4TACWH/899
+#EXTINF:-1,Movistar COMEDIA SD
+http://139384651764321318.ofd0208.xyz:80/play/fe1108712/7YuHD8QuuY3/321318.ts
+#EXTINF:-1,Movistar DRAMA HD
+http://sleekbeen.com:80/H76M73U69K23A7/DFXMGLAGTL4TACWH/900
+#EXTINF:-1,Movistar DRAMA SD
+http://139384651764321332.ofd0208.xyz:80/play/fe1108712/7YuHD8QuuY3/321332.ts
+#EXTINF:-1,Movistar INDIE HD
+http://329056059814552958.ofd0126.xyz:80/play/fe1104063/TYnTu39mFdNS/552958.ts
+#EXTINF:-1,Movistar INDIE SD
+http://414421713416552958.ofd0208.xyz:80/play/ja1227793/@RGftX4JEw/552958.ts
+#EXTINF:-1,Movistar SUSPENSE HD
+http://414421713416552964.ofd0208.xyz:80/play/ja1227793/@RGftX4JEw/552964.ts
+#EXTINF:-1,Movistar SUSPENSE SD
+http://562882305713552965.ofd0126.xyz:80/play/Nintendo09/68648537/552965.ts
+#EXTINF:-1,Movistar LOS GOYA HD
+http://139384651764775141.ofd0208.xyz:80/play/fe1108712/7YuHD8QuuY3/775141.ts
+#EXTINF:-1,Movistar musica HD
+http://414421713416561135.ofd0208.xyz:80/play/ja1227793/@RGftX4JEw/561135.ts
+#EXTINF:-1,Movistar Laliga HD
+http://506141496842165385.ofsd5513.xyz:80/live/ja613943/xFq7apUjr9T7/165385.ts
+#EXTINF:-1,Movistar Laliga 2 HD
+http://705099569998165398.ofsd5513.xyz:80/play/wa419836/kS9dEg5u@JSe/165398.ts
+#EXTINF:-1,DAZN LALIGA HD
+http://576126380402320782.ofsd5513.xyz:80/play/te322210/cnhK8GqgV3M/320782.ts
+#EXTINF:-1,DAZN LALIGA
+http://569122826827320780.ofsd5513.xyz:80/play/LR2MXX66SN/dJPWFvRp9TCc/320780.ts
+#EXTINF:-1,Movistar Deportes HD
+http://256088441420538695.ofsd5513.xyz:80/live/ja103066/J5NSfawc65u/538695.ts
+#EXTINF:-1,Movistar Deportes 2HD
+http://239118004697538679.ofsd5513.xyz:80/play/Chab0212L/Awpfkdymd121/538679.ts
+#EXTINF:-1,Movistar Deportes 3HD
+http://803092595823538682.ofsd5513.xyz:80/play/hu83055/Ah8TWvkJBaAW/538682.ts
+#EXTINF:-1,Movistar Deportes 4HD
+http://953101529454538685.ofsd5513.xyz:80/live/iptv116/123456/538685.ts
+#EXTINF:-1,Movistar liga de Campeones HD
+http://560151310878246282.ofsd5513.xyz:80/play/G23JQ9MTWA/4wxqHSkuEeb/246282.ts
+#EXTINF:-1,Movistar liga de Campeones 2 HD
+http://574111380516165365.ofsd5513.xyz:80/live/Game816L/GameM123/165365.ts
+#EXTINF:-1,Movistar Golf HD
+http://532142047650268094.ofsd5513.xyz:80/play/LPEZ230910/BGFHT37895A/268094.ts
+#EXTINF:-1,Movistar Golf 2 HD
+http://688091928162454216.ofsd5513.xyz:80/play/fe1128071/phvurVNkeW/454216.ts
+#EXTINF:-1,#VAMOS HD
+http://844127094754819488.ofsd5513.xyz:80/play/vi221783/MmUYnquEFqNJ/819488.ts
+#EXTINF:-1,#ELLAS HD
+http://879126623358743756.ofsd5513.xyz:80/play/vi102843/VebYpcrwGDPG/743756.ts
+#EXTINF:-1,DAZN 1HD
+http://732095385423373766.ofsd5513.xyz:80/play/KLP26N2WGM/Bv7YYAhgwAW/373766.ts
+#EXTINF:-1,DAZN 2HD
+http://274092319258228389.ofsd5513.xyz:80/play/he322582/kpbsh6FVHN/228389.ts
+#EXTINF:-1,EUROSPORT 1 HD
+http://47912353637828357.ofsd5513.xyz:80/play/mi921210/W9geJEBR5fP/828357.ts
+#EXTINF:-1,EUROSPORT 2 HD
+http://129115311430828360.ofsd5513.xyz:80/play/Nevad1102B/Aepddpdft123/828360.ts
+#EXTINF:-1,GOL TV HD
+http://813128271693538757.ofsd5513.xyz:80/play/xi116294/eu3yvHmUf6/538757.ts
 
