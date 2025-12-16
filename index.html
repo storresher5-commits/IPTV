@@ -1,13 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>IPTV - Acceso Temporal</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IPTV - Acceso</title>
     <style>
-        body {
-            font-family: Arial, sans-serif;
+        body { 
+            font-family: Arial, sans-serif; 
+            padding: 40px; 
             text-align: center;
-            padding: 50px;
             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             color: white;
             min-height: 100vh;
@@ -16,108 +15,118 @@
             background: rgba(255,255,255,0.1);
             padding: 30px;
             border-radius: 15px;
-            backdrop-filter: blur(10px);
-            max-width: 500px;
+            max-width: 600px;
             margin: 0 auto;
+            backdrop-filter: blur(10px);
+        }
+        .valido { 
+            background: #2ed573; 
+            color: white; 
+            padding: 20px;
+            border-radius: 10px;
+            margin: 20px 0;
+        }
+        .expirado { 
+            background: #ff4757; 
+            color: white; 
+            padding: 20px;
+            border-radius: 10px;
+            margin: 20px 0;
+        }
+        input {
+            width: 80%;
+            padding: 12px;
+            margin: 10px 0;
+            border: none;
+            border-radius: 8px;
+            font-size: 16px;
         }
         button {
             background: white;
             color: #667eea;
             border: none;
-            padding: 15px 30px;
-            font-size: 18px;
-            border-radius: 50px;
+            padding: 12px 25px;
+            font-size: 16px;
+            border-radius: 8px;
             cursor: pointer;
-            margin: 20px 0;
-            transition: transform 0.3s;
+            margin: 10px;
+            font-weight: bold;
         }
-        button:hover {
-            transform: scale(1.05);
+        .info {
+            background: #3498db;
+            padding: 15px;
+            border-radius: 10px;
+            margin: 15px 0;
         }
-        .expired {
-            background: #ff4757;
-            padding: 20px;
+        .enlace-box {
+            background: rgba(255,255,255,0.2);
+            padding: 15px;
             border-radius: 10px;
             margin: 20px 0;
-        }
-        .valid {
-            background: #2ed573;
-            padding: 20px;
-            border-radius: 10px;
-            margin: 20px 0;
+            word-break: break-all;
         }
     </style>
 </head>
 <body>
     <div class="container">
         <h1>📺 ACCESO IPTV</h1>
-        <p>Suscripción válida por 12 meses</p>
+        <p>Suscripción válida por 1 año</p>
         
-        <div id="status"></div>
+        <div id="estado"></div>
         
-        <div id="enlace-container" style="display:none;">
-            <h3>Tu enlace M3U:</h3>
-            <input type="text" id="enlace-m3u" readonly 
-                   style="width:100%; padding:10px; margin:10px 0; border-radius:5px; border:none;">
-            <button onclick="copiarEnlace()">📋 Copiar Enlace</button>
-            <p style="font-size:12px; margin-top:20px;">
-                Usa este enlace en cualquier app IPTV (IPTV Smarters, TiviMate, etc.)
-            </p>
-        </div>
-        
-        <div id="expirado-container" style="display:none;">
-            <h2>⚠️ SUSCRIPCIÓN EXPIRADA</h2>
-            <p>Contacta con el administrador para renovar</p>
+        <div id="enlace" style="display:none; margin-top:20px;">
+            <h3>✅ Tu enlace M3U está LISTO:</h3>
+            <div class="enlace-box">
+                <input type="text" id="url" readonly>
+            </div>
+            <button onclick="copiar()">📋 Copiar Enlace</button>
+            <div class="info">
+                <p>⚡ <strong>Instrucciones:</strong></p>
+                <p>1. Copia el enlace de arriba</p>
+                <p>2. Pégalo en tu app IPTV favorita</p>
+                <p>3. Apps recomendadas: IPTV Smarters, TiviMate, OTT Navigator</p>
+            </div>
         </div>
     </div>
 
     <script>
-        // CONFIGURACIÓN - EDITA ESTO
-        const fechaExpiracion = new Date('2026-12-31'); // Cambia esta fecha
-        const enlaceM3U = 'lista.m3u'; // Nombre de tu archivo M3U
-        const diasRestantesSpan = document.getElementById('dias-restantes');
+        // ⚠️ FECHA DE EXPIRACIÓN: 17 Diciembre 2025 (1 año desde hoy)
+        const expira = new Date('2025-12-17');
+        const hoy = new Date();
+        const diasRestantes = Math.ceil((expira - hoy) / (1000 * 60 * 60 * 24));
         
-        function verificarExpiracion() {
-            const hoy = new Date();
-            const statusDiv = document.getElementById('status');
-            const enlaceContainer = document.getElementById('enlace-container');
-            const expiradoContainer = document.getElementById('expirado-container');
+        const estadoDiv = document.getElementById('estado');
+        const enlaceDiv = document.getElementById('enlace');
+        
+        if (hoy > expira) {
+            // SUSCRIPCIÓN EXPIRADA
+            estadoDiv.innerHTML = 
+                '<div class="expirado"><h2>✖️ SUSCRIPCIÓN EXPIRADA</h2>' +
+                '<p>Contacta con el administrador para renovar</p></div>';
+        } else {
+            // SUSCRIPCIÓN ACTIVA
+            estadoDiv.innerHTML = 
+                '<div class="valido"><h2>✅ SUSCRIPCIÓN ACTIVA</h2>' +
+                `<p><strong>${diasRestantes}</strong> días restantes</p>` +
+                `<p>Expira: ${expira.toLocaleDateString('es-ES', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })}</p></div>`;
             
-            // Calcular días restantes
-            const diffTime = fechaExpiracion - hoy;
-            const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
-            
-            if (hoy > fechaExpiracion) {
-                // EXPIRADO
-                statusDiv.innerHTML = '<div class="expired"><h2>✖️ SUSCRIPCIÓN EXPIRADA</h2></div>';
-                expiradoContainer.style.display = 'block';
-                enlaceContainer.style.display = 'none';
-            } else {
-                // VÁLIDO
-                statusDiv.innerHTML = `<div class="valid">
-                    <h2>✅ SUSCRIPCIÓN ACTIVA</h2>
-                    <p>Días restantes: <strong>${diffDays}</strong> días</p>
-                    <p>Expira: ${fechaExpiracion.toLocaleDateString()}</p>
-                </div>`;
-                
-                // Mostrar enlace M3U
-                document.getElementById('enlace-m3u').value = 
-                    window.location.href.replace('index.html', enlaceM3U);
-                
-                enlaceContainer.style.display = 'block';
-                expiradoContainer.style.display = 'none';
-            }
+            // Mostrar enlace M3U
+            enlaceDiv.style.display = 'block';
+            document.getElementById('url').value = 
+                'https://storexheri-commits.github.io/IPTV/lista.m3u';
         }
         
-        function copiarEnlace() {
-            const input = document.getElementById('enlace-m3u');
+        function copiar() {
+            const input = document.getElementById('url');
             input.select();
             document.execCommand('copy');
             alert('✅ Enlace copiado al portapapeles');
         }
         
-        // Ejecutar al cargar
-        window.onload = verificarExpiracion;
+        // Mostrar fecha actual en consola para debug
+        console.log('Fecha actual:', hoy.toLocaleDateString());
+        console.log('Fecha expiración:', expira.toLocaleDateString());
+        console.log('Días restantes:', diasRestantes);
     </script>
 </body>
 </html>
