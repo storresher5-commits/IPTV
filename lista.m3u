@@ -55,7 +55,7 @@ acestream://7b361369a40046ad3011086f9d4ae2982fb4d5aa
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD", M+ PLUS FHD
 acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD", M+ PLUS HD
-acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
+acestream://199190e3f28c1de0be34bccf0d3568dc65209b99
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vp04N3pT/golf.png" tvg-id="M+ Golf HD", MOVISTAR GOLF FHD
 acestream://e2a05b5dad62f8dd20822c08fc9fd5dc2245c512
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BHXHhN2b/M-Golf-2.png" tvg-id="M+ Golf 2 HD", MOVISTAR GOLF 2 FHD
@@ -83,4 +83,17 @@ acestream://154c6f876ddf1d9c87880eae0d0442335ec156bf
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SX1jhBzy/lasexta.png" tvg-id="La Sexta HD", LA SEXTA FHD
 acestream://a4378aa93f9f436cfd1654160991f554e5395d88
 #EXTINF:-1 tvg-logo="https://www.realmurcia.es/wp-content/uploads/2024/08/Real-Murcia.png" tvg-id="",Real Murcia
-acestream://c1ee6e1e0ef5928d8261f855c417de21794f437d
+acestream://599a2fda91aa55703e2c5a51562d9dbf5d3d31d9
+#EXTINF:-1 tvg-logo="https://www.realmurcia.es/wp-content/uploads/2024/08/Real-Murcia.png" tvg-id="",Real Murcia 2
+acestream://a2ed6f2ca3f804481131c41ce64d4286a5820476
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/Acci%C3%B3n_por_Movistar_Plus%2B.svg/revision/latest/scale-to-width-down/268?cb=20220123154921&path-prefix=es" tvg-id="", Movistar Acción
+acestream://089673779de9fa7a18ac8dc26eb4a79cf5a86f96
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Comedia_por_Movistar_Plus%2B_2023_Logo.svg/langes-1100px-Comedia_por_Movistar_Plus%2B_2023_Logo.svg.png" tvg-id="", Movistar Comedia
+acestream://cf0cb321eed6765c2eadbd9983570f6674ce5df6
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MNAVID.png" tvg-id="", Movistar Navidad
+acestream://cf99e99c105162410ec6d1f68cc6f4811560fee7
+
+
+
+
+
