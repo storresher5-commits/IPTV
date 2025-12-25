@@ -90,18 +90,20 @@ acestream://089673779de9fa7a18ac8dc26eb4a79cf5a86f96
 acestream://cf0cb321eed6765c2eadbd9983570f6674ce5df6
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MNAVID.png" tvg-id="", Movistar Navidad
 acestream://cf99e99c105162410ec6d1f68cc6f4811560fee7
-#EXTINF:-1 tvg-logo="" tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsyhFDh14GB7X2RkWwpTHvZO_Wieo7_eF4xQ&s", Movistar Clásicos
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsyhFDh14GB7X2RkWwpTHvZO_Wieo7_eF4xQ&s" tvg-id="", Movistar Clásicos
 acestream://6462c8f65fcaa6e4fc874fef8d1e45bb7a7e6bae
-#EXTINF:-1 tvg-logo="" tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxOVL-LgTyj3faFZR8AfKMG830yg7-EYfbjg&s", Movistar Estrenos
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxOVL-LgTyj3faFZR8AfKMG830yg7-EYfbjg&s" tvg-id="", Movistar Estrenos
 acestream://5d35f906b735f25164fa2b9b7a4e6ef91dfed131
-#EXTINF:-1 tvg-logo="" tvg-id="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Indie_por_Movistar_Plus%2B_2023_Logo.svg/640px-Indie_por_Movistar_Plus%2B_2023_Logo.svg.png", Movistar Indie
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Indie_por_Movistar_Plus%2B_2023_Logo.svg/640px-Indie_por_Movistar_Plus%2B_2023_Logo.svg.png" tvg-id="", Movistar Indie
 acestream://7716c9fd5bd4413715e4e26f97efb91802f6ee80
-#EXTINF:-1 tvg-logo="" tvg-id="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Documentales_por_Movistar_Plus%2B_2023_Logo.svg/960px-Documentales_por_Movistar_Plus%2B_2023_Logo.svg.png", Movistar Documentales
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Documentales_por_Movistar_Plus%2B_2023_Logo.svg/960px-Documentales_por_Movistar_Plus%2B_2023_Logo.svg.png" tvg-id="", Movistar Documentales
 acestream://b3fc9b5647c5933b101c0b6b64322590c68587b9
-#EXTINF:-1 tvg-logo="" tvg-id="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/langca-250px-Syfy.svg.png", SyFy
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/langca-250px-Syfy.svg.png" tvg-id="", SyFy
 acestream://8e1bbcb6a6b8b9bb0e1144454fda35531107cdb3
-#EXTINF:-1 tvg-logo="" tvg-id="https://play-lh.googleusercontent.com/frshYbTuHZQbSVV4Kud0wp2cK2v0FwAdSBGJDMD1EnDb1j_gCJNE4EKo4hB7UCYLXIkojw", SOLO EN CASA
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/frshYbTuHZQbSVV4Kud0wp2cK2v0FwAdSBGJDMD1EnDb1j_gCJNE4EKo4hB7UCYLXIkojw" tvg-id="", SOLO EN CASA
 acestream:?infohash=bfd4003db208e4d3b89216b0766c376b4ff30fc7
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Plan_en_familia_2-742120702-large.jpg" tvg-id="", PLAN EN FAMILIA 2
+acestream:?infohash=418b61c4f267e1be1e04a6238f3eff2589a02d15
 
 
 
