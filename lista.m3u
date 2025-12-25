@@ -100,6 +100,9 @@ acestream://7716c9fd5bd4413715e4e26f97efb91802f6ee80
 acestream://b3fc9b5647c5933b101c0b6b64322590c68587b9
 #EXTINF:-1 tvg-logo="" tvg-id="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/langca-250px-Syfy.svg.png", SyFy
 acestream://8e1bbcb6a6b8b9bb0e1144454fda35531107cdb3
+#EXTINF:-1 tvg-logo="" tvg-id="https://play-lh.googleusercontent.com/frshYbTuHZQbSVV4Kud0wp2cK2v0FwAdSBGJDMD1EnDb1j_gCJNE4EKo4hB7UCYLXIkojw", SOLO EN CASA
+acestream:?infohash=bfd4003db208e4d3b89216b0766c376b4ff30fc7
+
 
 
 
