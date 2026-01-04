@@ -100,10 +100,8 @@ acestream://7716c9fd5bd4413715e4e26f97efb91802f6ee80
 acestream://b3fc9b5647c5933b101c0b6b64322590c68587b9
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/langca-250px-Syfy.svg.png" tvg-id="", SyFy
 acestream://8e1bbcb6a6b8b9bb0e1144454fda35531107cdb3
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/frshYbTuHZQbSVV4Kud0wp2cK2v0FwAdSBGJDMD1EnDb1j_gCJNE4EKo4hB7UCYLXIkojw" tvg-id="", SOLO EN CASA
-acestream:?infohash=bfd4003db208e4d3b89216b0766c376b4ff30fc7
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Plan_en_familia_2-742120702-large.jpg" tvg-id="", PLAN EN FAMILIA 2
-acestream:?infohash=418b61c4f267e1be1e04a6238f3eff2589a02d15
+
+
 
 
 
