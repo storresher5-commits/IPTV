@@ -100,6 +100,8 @@ acestream://7716c9fd5bd4413715e4e26f97efb91802f6ee80
 acestream://b3fc9b5647c5933b101c0b6b64322590c68587b9
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/langca-250px-Syfy.svg.png" tvg-id="", SyFy
 acestream://8e1bbcb6a6b8b9bb0e1144454fda35531107cdb3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQKHxcehekzBdeWrW6XPvo17AN7arGsvxnRf0VpTth48CDTEft6s2YGlzxO36sxQqiK4eOyIeS2FDrJ96NfOhSkPPgEB-jgI0NWf84di_Z&s=10" tvg-id="La 1", La 1
+acestream://1fddc49dd11ae7bb16f2b94648a9b4f0efc80349
 
 
 
