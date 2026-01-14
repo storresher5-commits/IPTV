@@ -33,7 +33,8 @@ acestream://74ab4e4ec7e2da001f473ca40893b7307b8029c5
 acestream://38f7b2044e549df2039ff26cefa6f9a60c854d5e
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" tvg-id="M+ Liga de Campeones 3 HD", M+ LIGA DE CAMPEONES 3 FHD
 acestream://4416843c96b7f7a1bc55c476091a60fff0922bc7
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" tvg-id="M+ Liga de Campeones 4", M+ LIGA DE CAMPEONES 4 FHDacestream://d0fb8510b35dcdff7b3208c899a067608ee9b1a4acestream://01152274037c5f7155489e0a977cbde71a61290c
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" tvg-id="M+ Liga de Campeones 4", M+ LIGA DE CAMPEONES 4 FHD
+acestream://d0fb8510b35dcdff7b3208c899a067608ee9b1a4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%205.png" tvg-id="M+ Liga de Campeones 5", M+ LIGA DE CAMPEONES 5 FHD
 acestream://6d27a521cf8542b3e06d2415cbeeb10310bd00b0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD", M+ DEPORTES FHD
@@ -102,6 +103,7 @@ acestream://b3fc9b5647c5933b101c0b6b64322590c68587b9
 acestream://8e1bbcb6a6b8b9bb0e1144454fda35531107cdb3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQKHxcehekzBdeWrW6XPvo17AN7arGsvxnRf0VpTth48CDTEft6s2YGlzxO36sxQqiK4eOyIeS2FDrJ96NfOhSkPPgEB-jgI0NWf84di_Z&s=10" tvg-id="La 1", La 1
 acestream://1fddc49dd11ae7bb16f2b94648a9b4f0efc80349
+
 
 
 
