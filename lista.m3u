@@ -68,7 +68,7 @@ acestream://7146e467aee3cb0bcdc286b39a3022c992428f01
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JWPVhS0d/nba.png" tvg-id="", NBA NETWORK
 acestream://8aa5c652b7e8e94c45e37eb5b60aef9dcd37839e
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD", LA 1 FHD
-acestream://7225e4b281975f1a36d61dfd9724b669d7747b70
+acestream://1fddc49dd11ae7bb16f2b94648a9b4f0efc80349
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qFgSG92W/antena3.png" tvg-id="Antena 3 HD", ANTENA 3 FHD
 acestream://390b5b0fc49a811c5c5ebd6d195b08a48b1e8496
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C3yh66tp/cuatro.png" tvg-id="Cuatro HD", CUATRO FHD
@@ -95,17 +95,3 @@ acestream://7716c9fd5bd4413715e4e26f97efb91802f6ee80
 acestream://b3fc9b5647c5933b101c0b6b64322590c68587b9
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/langca-250px-Syfy.svg.png" tvg-id="", SyFy
 acestream://8e1bbcb6a6b8b9bb0e1144454fda35531107cdb3
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQKHxcehekzBdeWrW6XPvo17AN7arGsvxnRf0VpTth48CDTEft6s2YGlzxO36sxQqiK4eOyIeS2FDrJ96NfOhSkPPgEB-jgI0NWf84di_Z&s=10" tvg-id="La 1", La 1
-acestream://1fddc49dd11ae7bb16f2b94648a9b4f0efc80349
-
-
-
-
-
-
-
-
-
-
-
-
