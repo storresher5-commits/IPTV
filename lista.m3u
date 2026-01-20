@@ -1,14 +1,14 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiafanart_sincolor1.xml.gz, https://raw.githubusercontent.com/Icastresana/lista1/main/epg.xml, https://xmltv.info/de/epg.xml, https://www.open-epg.com/files/unitedstatespremium1.xml, https://iptvx.one/EPG"
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD", DAZN LIGA FHD (SAT)
+#EXTINF:-1 tvg-logo="https://satcesc.com/wp-content/uploads/2005/02/DAZN-LaLiga.jpg.webp" tvg-id="DAZN LaLiga HD", DAZN LIGA FHD (SAT)
 acestream://e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/2048px-LaLiga_logo_2023.svg.png" tvg-id="DAZN LaLiga HD", DAZN LIGA FHD
+#EXTINF:-1 tvg-logo="https://satcesc.com/wp-content/uploads/2005/02/DAZN-LaLiga.jpg.webp" tvg-id="DAZN LaLiga HD", DAZN LIGA FHD
 acestream://4955867fad3bc92e5b4c36045699fc277800fb18
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/2048px-LaLiga_logo_2023.svg.png" tvg-id="DAZN LaLiga HD", DAZN LIGA 720p
+#EXTINF:-1 tvg-logo="https://satcesc.com/wp-content/uploads/2005/02/DAZN-LaLiga.jpg.webp" tvg-id="DAZN LaLiga HD", DAZN LIGA 720p
 acestream://4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6PiNcrgTKvH9K4G3PxuOvkmnX497ciampmb8HWfuFQN3gDWimkIub68WHd0kN4OmUwDhu&s" tvg-id="DAZN F1 HD", DAZN F1 FHD
 acestream://b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6PiNcrgTKvH9K4G3PxuOvkmnX497ciampmb8HWfuFQN3gDWimkIub68WHd0kN4OmUwDhu&s" tvg-id="DAZN 1 HD", DAZN 1 FHD (SAT)
-acestream://fd53cfa7055fe458d4f5c0ff59a06cd43723be55
+acestream://9afc89481b721ce6c326c85e47148676077b8e62
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-udh-1840.png" tvg-id="M+ LaLiga TV UHD", M+ Liga UHD
 acestream://cc9b7f5fe416069a2110da0909b0f915043c468b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD", M+ Liga FHD (SAT)
@@ -67,16 +67,6 @@ acestream://e3ad553098e0c1e70cba1ea2a906dc27aa3452a2
 acestream://7146e467aee3cb0bcdc286b39a3022c992428f01
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JWPVhS0d/nba.png" tvg-id="", NBA NETWORK
 acestream://8aa5c652b7e8e94c45e37eb5b60aef9dcd37839e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD", LA 1 FHD
-acestream://1fddc49dd11ae7bb16f2b94648a9b4f0efc80349
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qFgSG92W/antena3.png" tvg-id="Antena 3 HD", ANTENA 3 FHD
-acestream://390b5b0fc49a811c5c5ebd6d195b08a48b1e8496
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C3yh66tp/cuatro.png" tvg-id="Cuatro HD", CUATRO FHD
-acestream://da60cf19fab0b9e23aab83bb37d61e8b8c3b7655
-#EXTINF:-1 tvg-logo="https://i.ibb.co/81wJ3GH/telecinco.png" tvg-id="Telecinco HD", TELECINCO FHD
-acestream://154c6f876ddf1d9c87880eae0d0442335ec156bf
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SX1jhBzy/lasexta.png" tvg-id="La Sexta HD", LA SEXTA FHD
-acestream://a4378aa93f9f436cfd1654160991f554e5395d88
 #EXTINF:-1 tvg-logo="https://www.realmurcia.es/wp-content/uploads/2024/08/Real-Murcia.png" tvg-id="",Real Murcia
 acestream://599a2fda91aa55703e2c5a51562d9dbf5d3d31d9
 #EXTINF:-1 tvg-logo="https://www.realmurcia.es/wp-content/uploads/2024/08/Real-Murcia.png" tvg-id="",Real Murcia 2
@@ -95,6 +85,8 @@ acestream://7716c9fd5bd4413715e4e26f97efb91802f6ee80
 acestream://b3fc9b5647c5933b101c0b6b64322590c68587b9
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/langca-250px-Syfy.svg.png" tvg-id="", SyFy
 acestream://8e1bbcb6a6b8b9bb0e1144454fda35531107cdb3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD", LA 1 FHD
+acestream://1fddc49dd11ae7bb16f2b94648a9b4f0efc80349
 #EXTINF:-1 group-title="Nacional" tvg-id="La Sexta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/320px-La_Sexta_%28A3M%29.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",La Sexta
 https://livestartover.atresmedia.com/lasexta/master.m3u8
 #EXTINF:-1 group-title="Informativos" tvg-id="24 Horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/562px-Logo_TVE-24h.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",24 Horas
