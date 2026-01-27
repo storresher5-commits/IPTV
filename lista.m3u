@@ -53,9 +53,11 @@ acestream://a7b42f9d65636d1b1d9316d3e91ebe12b192658c
 acestream://24f940fef7e270b6b3ae5d9dc713a80c8345cfba
 #EXTINF:-1 tvg-logo="https://www.realmurcia.es/wp-content/uploads/2024/08/Real-Murcia.png" tvg-id="",Real Murcia
 acestream://599a2fda91aa55703e2c5a51562d9dbf5d3d31d9
-#EXTINF:-1 tvg-logo="https://www.realmurcia.es/wp-content/uploads/2024/08/Real-Murcia.png" tvg-id="",Real Murcia 2
+#EXTINF:-1 tvg-logo="https://www.realmurcia.es/wp-content/uploads/2024/08/Real-Murcia.png" tvg-id="",Real Murcia 720
 acestream://a2ed6f2ca3f804481131c41ce64d4286a5820476
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/Acci%C3%B3n_por_Movistar_Plus%2B.svg/revision/latest/scale-to-width-down/268?cb=20220123154921&path-prefix=es" tvg-id="M+ Acción ", Movistar Acción
+acestream://fbf4ebe0dcd9d92d522fad129be22df4924ad39f
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/Acci%C3%B3n_por_Movistar_Plus%2B.svg/revision/latest/scale-to-width-down/268?cb=20220123154921&path-prefix=es" tvg-id="M+ Acción ", Movistar Acción HD
 acestream://22e098168add080c8b75a68cb229999a55a5003d
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Comedia_por_Movistar_Plus%2B_2023_Logo.svg/langes-1100px-Comedia_por_Movistar_Plus%2B_2023_Logo.svg.png" tvg-id="", Movistar Comedia
 acestream://cf0cb321eed6765c2eadbd9983570f6674ce5df6
