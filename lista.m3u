@@ -1,15 +1,15 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiafanart_sincolor1.xml.gz, https://raw.githubusercontent.com/Icastresana/lista1/main/epg.xml, https://xmltv.info/de/epg.xml, https://www.open-epg.com/files/unitedstatespremium1.xml, https://iptvx.one/EPG"
 #EXTINF:-1 tvg-logo="https://satcesc.com/wp-content/uploads/2005/02/DAZN-LaLiga.jpg.webp" tvg-id="DAZN LaLiga HD", DAZN LIGA FHD (SAT)
-acestream://0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
+acestream://e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 #EXTINF:-1 tvg-logo="https://satcesc.com/wp-content/uploads/2005/02/DAZN-LaLiga.jpg.webp" tvg-id="DAZN LaLiga HD", DAZN LIGA FHD
 acestream://4955867fad3bc92e5b4c36045699fc277800fb18
 #EXTINF:-1 tvg-logo="https://satcesc.com/wp-content/uploads/2005/02/DAZN-LaLiga.jpg.webp" tvg-id="DAZN LaLiga HD", DAZN LIGA 720p
 acestream://19f28f60c908f987b1a03da078e63320d7bf29e8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6PiNcrgTKvH9K4G3PxuOvkmnX497ciampmb8HWfuFQN3gDWimkIub68WHd0kN4OmUwDhu&s" tvg-id="DAZN F1 HD", DAZN F1 FHD
 acestream://b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6PiNcrgTKvH9K4G3PxuOvkmnX497ciampmb8HWfuFQN3gDWimkIub68WHd0kN4OmUwDhu&s" tvg-id="DAZN 1 HD", DAZN 1 FHD (SAT)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqLgGhVuaDXq3DylBedQGm2FaVdwGzo2EO5g&s" tvg-id="DAZN 1", DAZN 1
 acestream://9afc89481b721ce6c326c85e47148676077b8e62
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6PiNcrgTKvH9K4G3PxuOvkmnX497ciampmb8HWfuFQN3gDWimkIub68WHd0kN4OmUwDhu&s" tvg-id="DAZN 1 HD", DAZN 2 FHD (SAT)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqLgGhVuaDXq3DylBedQGm2FaVdwGzo2EO5g&s" tvg-id="DAZN 1",DAZN 2 FHD (SAT)
 acestream://13a16a0630ae87bd97d6ba4165963c201c9a2e9c
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6PiNcrgTKvH9K4G3PxuOvkmnX497ciampmb8HWfuFQN3gDWimkIub68WHd0kN4OmUwDhu&s" tvg-id="DAZN 1 HD", DAZN 3 FHD (SAT)
 acestream://e1ccce973c71547a8acda770885cb1c30a9cf3e1
@@ -18,7 +18,7 @@ acestream://af458073c3096293a4dea9f369d4f308e7125bd6
 #EXTINF:-1 t#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD", M+ Liga 1080p
 acestream://107c3ce5a5d2527c9f06e4eab87477201791f231
 #EXTINF:-1 t#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD", M+ Liga 720p
-acestream://14b6cd8769cd485f2cffdca64be9698d9bfeac58
+acestream://f863873de9f7b2996dde19a0657dd89835af3007
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD", M+ LIGA DE CAMPEONES FHD
 acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD", M+ LIGA DE CAMPEONES FHD
@@ -34,27 +34,27 @@ acestream://cfc371890bfb502737a26de5215e50929c52d0f9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" tvg-id="M+ Liga de Campeones 4", M+ LIGA DE CAMPEONES 4 FHD
 acestream://e9f4493d2d851f4636720f639113e05b4a21a74c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD", M+ DEPORTES FHD
-acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4
+acestream://c6a824a81b36f6c3529826477caf2ad94b45776d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD", M+ DEPORTES 2 FHD
-acestream://f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0
+acestream://3774d8feab016ca766b35ea8488e7514ca30e0ee
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD", M+ DEPORTES 2 HD
-acestream://890901fa742b19d8808cf49f19db2d3016437c56
+acestream://bfa01c11c5c6b7a616a516de4f2c769a89d26b25
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD", M+ DEPORTES 2 720p
 acestream://f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jDg5qWD/deportes3.png" tvg-id="M+ Deportes 3", M+ DEPORTES 3 FHD
-acestream://2fd410c5d89e7a627cd3785685b7915b8e4bd534
+acestream://f4d9011721fad5098febbe4d7c078a582e176a01
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD", #VAMOS FHD (SAT)
-acestream://476b6f6583517bd75c15c4663bf45fab7c8da9cf
+acestream://f4d9011721fad5098febbe4d7c078a582e176a01
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD", M+ PLUS FHD
 acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD", M+ PLUS 720p
-acestream://199190e3f28c1de0be34bccf0d3568dc65209b99
+acestream://d23497596720b47b096ec0f850d6d26a19d1a336
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vp04N3pT/golf.png" tvg-id="M+ Golf HD", MOVISTAR GOLF FHD
-acestream://e2a05b5dad62f8dd20822c08fc9fd5dc2245c512
+acestream://9bb2a7dc6c6a296609df8cc50e742a78194f7530
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD", EUROSPORT 1 FHD
-acestream://ab7f9cc29ad09ee9575fed758ab317c818fdc491
+acestream://48a589dbeab3544662fafd79888aada7d834cfe9
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2", EUROSPORT 2 FHD
-acestream://24f940fef7e270b6b3ae5d9dc713a80c8345cfba
+acestream://5c910d614894635153a7d42de98cc2e4a958a53f
 #EXTINF:-1 tvg-logo="https://www.realmurcia.es/wp-content/uploads/2024/08/Real-Murcia.png" tvg-id="",Real Murcia
 acestream://599a2fda91aa55703e2c5a51562d9dbf5d3d31d9
 #EXTINF:-1 tvg-logo="https://www.realmurcia.es/wp-content/uploads/2024/08/Real-Murcia.png" tvg-id="",Real Murcia 720
