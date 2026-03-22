@@ -7,7 +7,7 @@ acestream://4955867fad3bc92e5b4c36045699fc277800fb18
 acestream://19f28f60c908f987b1a03da078e63320d7bf29e8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6PiNcrgTKvH9K4G3PxuOvkmnX497ciampmb8HWfuFQN3gDWimkIub68WHd0kN4OmUwDhu&s" tvg-id="DAZN F1 HD", DAZN F1 FHD
 acestream://b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqLgGhVuaDXq3DylBedQGm2FaVdwGzo2EO5g&s" tvg-id="DAZN 1", DAZN 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqLgGhVuaDXq3DylBedQGm2FaVdwGzo2EO5g&s" tvg-id="DAZN 1",DAZN 1
 acestream://9afc89481b721ce6c326c85e47148676077b8e62
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqLgGhVuaDXq3DylBedQGm2FaVdwGzo2EO5g&s" tvg-id="DAZN 1",DAZN 2 FHD (SAT)
 acestream://13a16a0630ae87bd97d6ba4165963c201c9a2e9c
@@ -15,11 +15,11 @@ acestream://13a16a0630ae87bd97d6ba4165963c201c9a2e9c
 acestream://e1ccce973c71547a8acda770885cb1c30a9cf3e1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD", M+ Liga FHD (SAT)
 acestream://af458073c3096293a4dea9f369d4f308e7125bd6
-#EXTINF:-1 t#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD", M+ Liga 1080p
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD", M+ Liga 1080p
 acestream://0febfb5cac3384f487d55c559bbfc877db2d0357
-#EXTINF:-1 t#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD", M+ Liga 1080p
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD", M+ Liga 1080p
 acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947
-#EXTINF:-1 t#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD", M+ Liga 720p
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD", M+ Liga 720p
 acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD", M+ LIGA DE CAMPEONES FHD
 acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9
