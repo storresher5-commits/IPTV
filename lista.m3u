@@ -1,12 +1,8 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiafanart_sincolor1.xml.gz, https://raw.githubusercontent.com/Icastresana/lista1/main/epg.xml, https://xmltv.info/de/epg.xml, https://www.open-epg.com/files/unitedstatespremium1.xml, https://iptvx.one/EPG"
-#EXTINF:-1 tvg-logo=https:"//www.movistarplus.es/recorte/n/caratula5/F4466807" tvg-id="DAZN LaLiga HD", 1
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/n/caratula5/F4466807" tvg-id="M+ Liga de Campeones HD",1
 acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/n/caratula5/F4466807" tvg-id="DAZN LaLiga HD", 2
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/n/caratula5/F4466807" tvg-id="M+ Liga de Campeones HD",2
 acestream://91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920
-#EXTINF:-1 tvg-logo=https://https://www.movistarplus.es/recorte/n/caratula5/F4466807"" tvg-id="DAZN LaLiga HD", 4
-acestream://91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920
-#EXTINF:-1 tvg-logo=https://www.movistarplus.es/recorte/n/caratula5/F4466799"" tvg-id="DAZN LaLiga HD", 5
-acestream://2b51710cee513e8939785fa3e7980f32d4e0415f
 #EXTINF:-1 tvg-logo="https://satcesc.com/wp-content/uploads/2005/02/DAZN-LaLiga.jpg.webp" tvg-id="DAZN LaLiga HD", DAZN LIGA FHD (SAT)
 acestream://e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 #EXTINF:-1 tvg-logo="https://satcesc.com/wp-content/uploads/2005/02/DAZN-LaLiga.jpg.webp" tvg-id="DAZN LaLiga HD", DAZN LIGA FHD
