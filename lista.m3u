@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiafanart_sincolor1.xml.gz, https://raw.githubusercontent.com/Icastresana/lista1/main/epg.xml, https://xmltv.info/de/epg.xml, https://www.open-epg.com/files/unitedstatespremium1.xml, https://iptvx.one/EPG"
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/n/caratula5/F4466807" tvg-id="M+ Liga de Campeones HD",1
-acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb
+acestream://9db029dff6a9c637d1f670e78dbc1a479b9b406e
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/n/caratula5/F4466807" tvg-id="M+ Liga de Campeones HD",2
 acestream://91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920
 #EXTINF:-1 tvg-logo="https://satcesc.com/wp-content/uploads/2005/02/DAZN-LaLiga.jpg.webp" tvg-id="DAZN LaLiga HD", DAZN LIGA FHD (SAT)
