@@ -1,8 +1,29 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml,https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml" refresh="3600"
 #EXTVLCOPT:network-caching=1000
 
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/M1SD" group-title="MUNDIAL", DAZN MUNDIAL 
+#EXTINF:-1 tvg-logo="https://a2.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="MUNDIAL", DAZN MUNDIAL 
+acestream://ccfde4bc75d14c79dd09af72434568a0e732d507
+
+#EXTINF:-1 tvg-logo="https://a2.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="MUNDIAL", DAZN MUNDIAL 
 acestream://414222dc7b69a626f29eb964450dae44b3bc9b36
+
+#EXTINF:-1 tvg-logo="https://a2.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="MUNDIAL", DAZN MUNDIAL 
+acestream://dac18df259f44258d81aa8f31cb343bb837f5ac7
+
+#EXTINF:-1 tvg-logo="https://a2.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="MUNDIAL", DAZN MUNDIAL 
+acestream://63b1933154919d116f08e33ffcb31a23f9483989
+
+#EXTINF:-1 tvg-logo="https://a2.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="MUNDIAL", DAZN MUNDIAL 
+acestream://f28f558a7699237cb4ec1e0075db4073ffc3a415
+
+#EXTINF:-1 tvg-logo="https://a2.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="MUNDIAL", DAZN MUNDIAL 
+acestream://7cf306fc097deca7005b220b1f6206bd654b5ca5
+
+#EXTINF:-1 tvg-logo="https://a2.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="MUNDIAL", DAZN MUNDIAL 
+acestream://aab0be9632ef2f53e99f2e596a8e6a30ed34a29c
+
+#EXTINF:-1 tvg-logo="https://a2.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="MUNDIAL", DAZN MUNDIAL 
+http://127.0.0.1:6878/ace/getstream?id=ccfde4bc75d14c79dd09af72434568a0e732d507&pid=41482
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es" group-title="NEW_ERA_V", Canal 2 (1RFEF) (SOLO EVENTOS) - NEW ERA V
 acestream://8677d339ecddd75165c0015025f598b6215974cf
