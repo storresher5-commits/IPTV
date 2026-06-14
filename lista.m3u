@@ -25,7 +25,7 @@ acestream://aab0be9632ef2f53e99f2e596a8e6a30ed34a29c
 #EXTINF:-1 tvg-logo="https://a2.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="MUNDIAL", DAZN MUNDIAL 
 http://127.0.0.1:6878/ace/getstream?id=ccfde4bc75d14c79dd09af72434568a0e732d507
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es" group-title="NEW_ERA_V", Canal 2 (1RFEF) (SOLO EVENTOS) - NEW ERA V
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es" group-title="CINE", MOVISTAR ESTRENOS
 acestream://8677d339ecddd75165c0015025f598b6215974cf
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es" group-title="NEW_ERA", PRIMERA FEDERACIÓN FHD - NEW ERA
