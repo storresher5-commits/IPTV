@@ -12,7 +12,8 @@
 #EXTGRP: group-title="MOVISTAR DEPORTES" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/2560px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png"
 #EXTGRP: group-title="OTROS" group-logo="https://i.ibb.co/zVNFsy0F/logo-otros.png"
 #EXTGRP: group-title="RFEF TV" group-logo="https://rfef.es/themes/custom/
-
+#EXTINF:-1 tvg-id="La Asistenta" tvg-logo="https://www.isliada.org/static/images/2026/01/La-asistenta-15.jpg" group-title="Películas",La Asistenta
+acestream:?infohash=1a63b5bb10108557f500ce620d3382ca33a8b98c
 #EXTINF:-1 tvg-id="DAZN 1 HD" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="DAZN",DAZN 1 720p *
 acestream://a116ce3ff95c41c60e987e2b1aa247007f707884
 #EXTINF:-1 tvg-id="DAZN 1 HD" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="DAZN",DAZN 1 720p **
@@ -95,3 +96,4 @@ acestream://f31d1f85570b58be8d5ab6f4f2d0f3f9c815c35f
 acestream://b523277cc0d5d64be260dbf24df1ada1c0097507
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2016/01/tennis-channel-logo-e1518530950839.jpg" group-title="TENNIS",Tennis Channel 1080p **
 acestream://43c549e5781f5a923b76f8f29cde122b5be164eb
+
