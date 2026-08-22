@@ -14,6 +14,8 @@
 #EXTGRP: group-title="RFEF TV" group-logo="https://rfef.es/themes/custom/
 #EXTINF:-1 tvg-id="La Asistenta" tvg-logo="https://www.isliada.org/static/images/2026/01/La-asistenta-15.jpg" group-title="Películas",La Asistenta
 acestream:?infohash=1a63b5bb10108557f500ce620d3382ca33a8b98c
+#EXTINF:-1 tvg-id="?" tvg-logo="https://wolfmax4k.com/assets/u/p/f/minions-and-monsters--2026---BluRay-1080p_32_11277.jpg" group-title="Películas",Minions and Monster
+acestream:?infohash=8019fbc1493b8450966950a38f1d8d4e5e6cb285
 #EXTINF:-1 tvg-id="DAZN 1 HD" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="DAZN",DAZN 1 720p *
 acestream://a116ce3ff95c41c60e987e2b1aa247007f707884
 #EXTINF:-1 tvg-id="DAZN 1 HD" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="DAZN",DAZN 1 720p **
