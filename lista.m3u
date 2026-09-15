@@ -13,10 +13,10 @@
 #EXTGRP: group-title="OTROS" group-logo="https://i.ibb.co/zVNFsy0F/logo-otros.png"
 #EXTGRP: group-title="RFEF TV" group-logo="https://rfef.es/themes/custom/rfef/img/rfef-share.png"
 #EXTGRP: group-title="TDT" group-logo="https://i.ibb.co/j9xn42jB/logo-tdt.png"
-#EXTINF:-1 tvg-id="https://m.media-amazon.com/images/M/MV5BMmQwYWZjZGItYzc0OC00ZDllLTg3NjItOWIyOWYwMDljMjAyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" tvg-logo="" group-title="DISNEY",ALADDIN 1992
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmQwYWZjZGItYzc0OC00ZDllLTg3NjItOWIyOWYwMDljMjAyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="DISNEY",ALADDIN 1992
 acestream:?infohash=d256a49697c8bf4c56eb9ad3974c2fde1364e640
-#EXTINF:-1 tvg-id="https://m.media-amazon.com/images/M/MV5BMTZkNWY5MGYtZTgzNS00NDA1LWFjNGUtYWQ0MTc3MDE5MjNkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" tvg-logo="" group-title="DISNEY",VAIANA 2026
-acestream:?infohash=a683758e90ac277dc2824ad3466637bcb73f264c
+#EXTINF:-1 tvg-id="https://m.media-amazon.com/images/M/MV5BMTZkNWY5MGYtZTgzNS00NDA1LWFjNGUtYWQ0MTc3MDE5MjNkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/image_50ae0b9a.jpeg?region=0,0,540,810" group-title="DISNEY",VAIANA
+acestream:?infohash=bf144c07f96bdc2228bdb816da71d956a6f50345
 #EXTINF:-1 tvg-id="DAZN 1 HD" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="DAZN",DAZN 1 720p *
 acestream://f9c6a0e04cb062098571c6cbaa6fa4b60cc7e0cb
 #EXTINF:-1 tvg-id="DAZN 1 HD" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="DAZN",DAZN 1 720p **
