@@ -1,22 +1,9 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml,https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml" refresh="3600"
-#EXTVLCOPT:network-caching=1000
-
-#EXTGRP: group-title="BALONCESTO" group-logo="https://www.soyvisual.org/sites/default/files/styles/twitter_card/public/images/photos/dep_0002.jpg"
-#EXTGRP: group-title="DAZN" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png"
-#EXTGRP: group-title="EUROSPORT" group-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo.png"
-#EXTGRP: group-title="FORMULA 1" group-logo="https://i.ibb.co/2Ndmtbp/f1.png"
-#EXTGRP: group-title="HYPERMOTION" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/2335px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png"
-#EXTGRP: group-title="LA LIGA" group-logo="https://i.ibb.co/sp6dD8h2/laliga-logo.png"
-#EXTGRP: group-title="LIGA DE CAMPEONES" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/2560px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png"
-#EXTGRP: group-title="MOVISTAR" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png"
-#EXTGRP: group-title="MOVISTAR DEPORTES" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/2560px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png"
-#EXTGRP: group-title="OTROS" group-logo="https://i.ibb.co/zVNFsy0F/logo-otros.png"
-#EXTGRP: group-title="RFEF TV" group-logo="https://rfef.es/themes/custom/rfef/img/rfef-share.png"
-#EXTGRP: group-title="TDT" group-logo="https://i.ibb.co/j9xn42jB/logo-tdt.png"
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmQwYWZjZGItYzc0OC00ZDllLTg3NjItOWIyOWYwMDljMjAyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="DISNEY",ALADDIN 1992
+acestream:?infohash=10a2bd780791a5d74965d66f836be7b9997469fa&title=Pocahontas%201%20%5BMicroHD%5D%5B1080%20px%5D%5BAC3%205.1-Castellano%20DTS-Ingles%2BSubs%5D&transport_type=bt" group-title="DISNEY",ALADDIN 1992
 acestream:?infohash=d256a49697c8bf4c56eb9ad3974c2fde1364e640
 #EXTINF:-1 tvg-id="https://m.media-amazon.com/images/M/MV5BMTZkNWY5MGYtZTgzNS00NDA1LWFjNGUtYWQ0MTc3MDE5MjNkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/image_50ae0b9a.jpeg?region=0,0,540,810" group-title="DISNEY",VAIANA
 acestream:?infohash=bf144c07f96bdc2228bdb816da71d956a6f50345
+#EXTINF:-1 tvg-id="https://m.media-amazon.com/images/M/MV5BMTZkNWY5MGYtZTgzNS00NDA1LWFjNGUtYWQ0MTc3MDE5MjNkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" tvg-logo= "https://lumiere-a.akamaihd.net/v1/images/p_pocahontas_19873_d84f7162.jpeg" group-title="DISNEY",POCAHONTAS 1
+acestream:?infohash=10a2bd780791a5d74965d66f836be7b9997469fa&title=Pocahontas%201%20%5BMicroHD%5D%5B1080%20px%5D%5BAC3%205.1-Castellano%20DTS-Ingles%2BSubs%5D&transport_type=bt
 #EXTINF:-1 tvg-id="DAZN 1 HD" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="DAZN",DAZN 1 720p *
 acestream://f9c6a0e04cb062098571c6cbaa6fa4b60cc7e0cb
 #EXTINF:-1 tvg-id="DAZN 1 HD" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="DAZN",DAZN 1 720p **
