@@ -1,5 +1,4 @@
-acestream:?infohash=10a2bd780791a5d74965d66f836be7b9997469fa&title=Pocahontas%201%20%5BMicroHD%5D%5B1080%20px%5D%5BAC3%205.1-Castellano%20DTS-Ingles%2BSubs%5D&transport_type=bt" group-title="DISNEY",ALADDIN 1992
-acestream:?infohash=d256a49697c8bf4c56eb9ad3974c2fde1364e640
+#EXTM3U
 #EXTINF:-1 tvg-id="https://m.media-amazon.com/images/M/MV5BMTZkNWY5MGYtZTgzNS00NDA1LWFjNGUtYWQ0MTc3MDE5MjNkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/image_50ae0b9a.jpeg?region=0,0,540,810" group-title="DISNEY",VAIANA
 acestream:?infohash=bf144c07f96bdc2228bdb816da71d956a6f50345
 #EXTINF:-1 tvg-id="https://m.media-amazon.com/images/M/MV5BMTZkNWY5MGYtZTgzNS00NDA1LWFjNGUtYWQ0MTc3MDE5MjNkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" tvg-logo= "https://lumiere-a.akamaihd.net/v1/images/p_pocahontas_19873_d84f7162.jpeg" group-title="DISNEY",POCAHONTAS 1
