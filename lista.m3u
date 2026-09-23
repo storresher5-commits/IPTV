@@ -18,7 +18,7 @@ acestream:?infohash=bf144c07f96bdc2228bdb816da71d956a6f50345
 #EXTINF:-1 tvg-id="https://m.media-amazon.com/images/M/MV5BMTZkNWY5MGYtZTgzNS00NDA1LWFjNGUtYWQ0MTc3MDE5MjNkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" tvg-logo= "https://lumiere-a.akamaihd.net/v1/images/p_pocahontas_19873_d84f7162.jpeg" group-title="DISNEY",POCAHONTAS 1
 acestream:?infohash=10a2bd780791a5d74965d66f836be7b9997469fa&title=Pocahontas%201%20%5BMicroHD%5D%5B1080%20px%5D%5BAC3%205.1-Castellano%20DTS-Ingles%2BSubs%5D&transport_type=bt
 #EXTINF:-1 tvg-id="DAZN 1 HD" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="DAZN",DAZN 1 720p *
-acestream://f9c6a0e04cb062098571c6cbaa6fa4b60cc7e0cb
+acestream://691739972eb3468cf16b25e84dafdeaa40dead6d
 #EXTINF:-1 tvg-id="DAZN 1 HD" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="DAZN",DAZN 1 720p **
 acestream://a116ce3ff95c41c60e987e2b1aa247007f707884
 #EXTINF:-1 tvg-id="DAZN 2 HD" tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" group-title="DAZN",DAZN 2 720p *
@@ -28,11 +28,11 @@ acestream://d60b8c154828cb990b7bb1570764b215bd979e74
 #EXTINF:-1 tvg-id="DAZN 2 HD" tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" group-title="DAZN",DAZN 2 1080p **
 acestream://01ce89b571b6c89bc19ccaafc913d483ac65c61d
 #EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" group-title="EUROSPORT",Eurosport 1 720p *
-acestream://313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153
+acestream://48a589dbeab3544662fafd79888aada7d834cfe9
 #EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" group-title="EUROSPORT",Eurosport 1 1080p *
 acestream://8522af51ae7189b12effabbb448dcb707195ce1a
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" group-title="LA LIGA",DAZN LaLiga 1080p *
-acestream://9c588ac92554746c489bc553773d959f6d2dfd8e
+acestream://d1596a3988b84a4d2711fd380eb8a53256ad74ae
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" group-title="LA LIGA",DAZN LaLiga *
 acestream://9c75f1d190c518cfe0f236415b8dccc1f676ef3b
 #EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="LA LIGA",M+ LaLiga 720p *
@@ -52,15 +52,15 @@ acestream://0febfb5cac3384f487d55c559bbfc877db2d0357
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 720p **
 acestream://63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 1080p *
-acestream://91af434b0bb521189286f8cbbab1aed39d7536fe
+acestream://778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 1080p *
-acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9
+acestream://afbf2a479c5a5072698139f0f556ef3e77a99bd0
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 1080p **
-acestream://91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920
+acestream://afbf1ef8812e7b0a0977fa3a0a2d3a6d3cbd6c6f
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 2 720p *
-acestream://38f7b2044e549df2039ff26cefa6f9a60c854d5e
+acestream://c6a3673f6a37b1bd3cf31fdd6404dd33d48cfccb
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 2 720p **
-acestream://47188da7d2e4beaee82cff174f223fdd23f78fa6
+acestream://4fc6d0331830ad8743abab2fe2473b63bdfbc49f
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 3 720p **
 acestream://5b7f54b12e0f96ceba1299f44eac4b0f97403e4e
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 3 1080p **
@@ -87,3 +87,21 @@ acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae
 acestream://43c549e5781f5a923b76f8f29cde122b5be164eb
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2016/01/tennis-channel-logo-e1518530950839.jpg" group-title="TENNIS",Tennis Channel 1080p **
 acestream://a4cbadd19442b800727be713270fa9c917cc8582
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZckwHaaEUk_NT1zBLyYOgJSipQyZi_SE9t6YTJmCyqwbSUdC9e7bU_26T&s=10" group-title="Dibujos animados", Nickelodeon HD 
+acestream://3f2b6ac892758f5f3574f649ba9c486b341ca20e
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQidedIecRdfGKbG5Er-ikZKWa_ExWDTidbN1f1PlB2MA&s=10" group-title="Movistar",Movistar Acción
+acestream://f3a6d058791f0818a3301f9d5eeb60cfb54d905d
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzFAO0YFw8H0edt7dFLya_xE9MTaT3PsbgCCSeQEzS8Q&s=10" group-title="Movistar",Movistar +
+acestream://8c67cdb5ba81976662c3a67984a9545d9cfb0f70
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzFAO0YFw8H0edt7dFLya_xE9MTaT3PsbgCCSeQEzS8Q&s=10" group-title="Movistar",Movistar +*
+acestream://fa931cbc87dc9d66fdd30a9644e054b403960056
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzFAO0YFw8H0edt7dFLya_xE9MTaT3PsbgCCSeQEzS8Q&s=10" group-title="Movistar",Movistar +**
+acestream://c1b7f54af0de256d1ac0fcac4c130e62660089f4
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzFAO0YFw8H0edt7dFLya_xE9MTaT3PsbgCCSeQEzS8Q&s=10" group-title="Movistar",Movistar +***
+acestream://318c12f5f40d7bd9c0ab0c130bf9b96668098279
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3k36CCLI8dt4-y4ycFurDZ2jhhMjmYIpYQFit8wUHeQ&s=10" group-title="Movistar",Movistar Estrenos
+acestream://007a97a0aff68eb9a76f7fb9d9643b1532ab0803
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/comunicacion/wp-content/uploads/2023/07/Accion-por-M_Color-Negativo_RGB.jpg" group-title="Movistar",Movistar Acción
+acestream://089673779de9fa7a18ac8dc26eb4a79cf5a86f96
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6zPbKuEKCPsn8cP_0gw1ewXOfMf-qE9CJtssPhDMV6FY9v7pq9oAz4c0&s=10" group-title="Movistar",Movistar Comedia
+acestream://cf0cb321eed6765c2eadbd9983570f6674ce5df6
